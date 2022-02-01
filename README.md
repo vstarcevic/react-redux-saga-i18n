@@ -1,4 +1,4 @@
-# SMLR
+# React-Redux-Saga-i18n
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -8,4 +8,4 @@ This is example project for starting with Redux, Saga, Routing trying to use bes
 
 In the project directory, you can run:
 
-### `yarn start`
+```yarn start```
