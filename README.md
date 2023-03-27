@@ -6,6 +6,6 @@ This is example project for starting with Redux, Saga, Routing trying to use bes
 
 ## Start 
 
-In the project directory, you can run:
+In the project directory 
 
 ```yarn start```
